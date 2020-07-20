@@ -2,4 +2,6 @@
 Game engine pet project. Work in progress
 
 NEW
-Model loader and skeletal animation 
+Importing model and skeletal animation from .dae file using ASSIMP
+
+![Screenshot](Showcase.png)
